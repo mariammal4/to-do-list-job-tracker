@@ -21,3 +21,5 @@ This is a simple Job Application Tracker web application. It helps users to add,
   
 #Purpose:
   This project is created for practice and to improve web development skills.
+
+
