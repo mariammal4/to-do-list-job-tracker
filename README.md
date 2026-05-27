@@ -21,3 +21,10 @@ How to Use
  
 Purpose
  This project is created for practice and to improve web development skills.
+ 
+ Screenshots:
+   Home Page
+   ![Home Page](to-do-list%20screenshot1.png)
+
+  Task Added View
+   ![Task View](to-do-list%20screenshot2.png)
